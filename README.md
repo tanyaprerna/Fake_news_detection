@@ -8,6 +8,7 @@ The main components of this repository include:
 - `fake_news_detection.ipynb`: Jupyter Notebook containing the code for the fake news detection model.
 - `news.zip`: A compressed archive containing the dataset used for training and testing the model.
 
+
 ## Dataset
 
 The dataset used in this project is provided in the `news.zip` file. It contains labeled news articles categorized as either real or fake. The dataset has been preprocessed and split into training and testing sets for model development and evaluation.
